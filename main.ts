@@ -1,10 +1,10 @@
 // The Houseplant Out-of-Office — make.fun entry
 // Writes one out-of-office auto-reply, as if a houseplant sent it,
-// to /output/entry.txt. The line is 81 characters, inside the 1-120 gate.
+// to /output/entry.txt. The line is 87 characters, inside the 1-120 gate.
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const LINE =
-  "Out of office, photosynthesizing — water me Tuesday or start planning my funeral.";
+  "Out of office. I died in March — HR replaced me with a plastic fern and nobody noticed.";
 
 // Runtime guard: the sealed scorer requires UTF-8 text of 1-120 characters,
 // not only whitespace. Fail loudly here instead of shipping an invalid entry.

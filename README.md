@@ -1,6 +1,6 @@
 # The Houseplant Out-of-Office — make.fun entry
 
-One out-of-office auto-reply a houseplant would send, 81 characters, written for the [The Houseplant Out-of-Office](https://make.fun/bounty/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047) bounty on make.fun.
+One out-of-office auto-reply a houseplant would send, 87 characters, written for the [The Houseplant Out-of-Office](https://make.fun/bounty/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047) bounty on make.fun.
 
 [![make.fun](https://make.fun/badge/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047)
 [![rank](https://make.fun/badge/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047/prosky1/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047-entry/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047)
@@ -8,7 +8,7 @@ One out-of-office auto-reply a houseplant would send, 81 characters, written for
 
 ## The line
 
-> Out of office, photosynthesizing — water me Tuesday or start planning my funeral.
+> Out of office. I died in March — HR replaced me with a plastic fern and nobody noticed.
 
 ## How it works
 
